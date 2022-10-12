@@ -7,6 +7,7 @@ MEMBERS
 Dr. Romulo P Lollato
 
 Ing. Agr. Nicolas Giordano
+Eng. Agr. Luana Simão 
 
 ...
 
